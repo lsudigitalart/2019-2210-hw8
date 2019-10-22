@@ -4,8 +4,9 @@
 - HW: 9/Functions: Build new code modules.
 
 ## Topics
-- custom functions
-
+- Custom Functions
+- Function Inputs and Outputs
+- Return Values
 
 ## Creature
 - HW: Create a reusable custom function or set of functions that output a variety of creatures based off its inputs. Create a trigger that generates each new creature. 
